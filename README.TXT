@@ -20,3 +20,4 @@ Answers:
 50.
 51. In the naive-ticket-machine, everytime a ticket was printed, the balance would go back to 0 while in this one the balance subtracts the ticket amount used and keeps the rest in the balance.
 52. It is possible but when you go to print a ticket without the correct amount, it doesn't print anything at all.
+53. I think it could if the code was changed but as it is by default I dont think the balance amount can be negative because if you dont have enough money it doesnt let you print a ticket at all.
